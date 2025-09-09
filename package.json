@@ -9,7 +9,7 @@
   "dependencies": {
     "next": "latest",
     "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "react-dom": "^19.1.1"
   },
   "license": "MIT"
 }
